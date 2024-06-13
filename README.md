@@ -13,3 +13,6 @@ Esse projeto foi desenvolvido com base em estudo prático e teórico.
 Deploy: [https://lnkd.in/dJH4sgkX](https://lista-tarefas-react-ten.vercel.app/)
 
 • Amostra 👇🏽
+
+https://github.com/obrunomarciano/lista-tarefas-react/assets/122938679/2d332490-59de-4910-8168-052b301658d5
+
